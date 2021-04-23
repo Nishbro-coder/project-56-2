@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.hobby_pic {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.sec-1{
+    background color: greenyellow;
+}
